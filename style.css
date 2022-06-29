@@ -1,0 +1,98 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Open Sans', Verdana, sans-serif;
+}
+
+.header {}
+
+.wrapper {}
+
+.logo {}
+
+.header__navigation {}
+
+.navigation {}
+
+.header__buttons {}
+
+.button {}
+
+.button_bordered {}
+
+.button_colored {}
+
+.promo {}
+
+.promo__content {}
+
+.promo__buttons {}
+
+.link-button {}
+
+.ico {}
+
+.ico_play {}
+
+.tools {}
+
+.layout-4-column {}
+
+.tool__icon {}
+
+.icon-square {}
+
+.icon-square_lilium {}
+
+.tools-button {}
+
+.strategies {}
+
+.strategies__description {}
+
+.strategies__tags {}
+
+.tag {}
+
+.tag_selected {}
+
+.tag_bordered {}
+
+.layout-3-column {}
+
+.strategy {}
+
+.block-shadowed {}
+
+.tag_colored {}
+
+.about-us {}
+
+.employee {}
+
+.employee__content {}
+
+.employer__title {}
+
+.contact-us {}
+
+.layout-2-column {}
+
+.contact-us__content {}
+
+.ico_phone {}
+
+.ico_letter {}
+
+.contact-us__form {}
+
+.contact-us__button {}
+
+.footer {}
+
+.footer-navigation {}
+
+.footer-navigation__links {}
